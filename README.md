@@ -6,9 +6,15 @@ I'm Amine Amine, a senior Flutter developer. I also create and contribute to man
 * Programming (**Java, C/C++, C#, Python, Go, Rust, Ruby, JavaScript, Swift**)
 * Operating Systems (**Windows, MacOS, Linux, iOS, and Android**)
 <br><br>
+
+## Join Me On UpWork
+
+[![linkedin](https://img.shields.io/badge/upwork-0077?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01ee2f160b00f9870b)
+
+
 ## Tech Stack
 
-<img src="https://skillicons.dev/icons?i=js,html,css,swift,php,dart,flutter,appwrite,firebase,svelte" title="Flutter, Firebase, Appwrite, NestJs, ReactJS, Laravel, Dart, HTML, CSS, JS, Svelte" alt="Flutter, Firebase, Appwrite, NestJs, ReactJS, Laravel, Dart, HTML, CSS, JS, Svelte" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=js,html,css,php,dart,flutter,firebase,flutter,java,react" title="Flutter, Firebase, Appwrite, NestJs, ReactJS, Laravel, Dart, HTML, CSS, JS, Svelte" alt="Flutter, Firebase, Appwrite, ReactJS, Dart, HTML, CSS, JS" /> <br /><br />
 
 ## 📈 GitHub Stats
 [![GitHub followers](https://img.shields.io/github/followers/mikeroyal?logo=GitHub&style=for-the-badge)](https://github.com/aminamin13)
