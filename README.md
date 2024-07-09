@@ -17,9 +17,9 @@ I'm Amine Amine, a senior Flutter developer. I also create and contribute to man
 <img src="https://skillicons.dev/icons?i=js,html,css,php,dart,flutter,firebase,flutter,java,react" title="Flutter, Firebase, Appwrite, NestJs, ReactJS, Laravel, Dart, HTML, CSS, JS, Svelte" alt="Flutter, Firebase, Appwrite, ReactJS, Dart, HTML, CSS, JS" /> <br /><br />
 
 ## 📈 GitHub Stats
-[![GitHub followers](https://img.shields.io/github/followers/mikeroyal?logo=GitHub&style=for-the-badge)](https://github.com/aminamin13)
-[![GitHub Stars](https://img.shields.io/github/stars/mikeroyal?logo=github&style=for-the-badge)](https://github.com/aminamin13) 
-[![Twitch Status](https://img.shields.io/twitch/status/mikeroyal?color=9147FF&logo=twitch&style=for-the-badge)]()
+[![GitHub followers](https://img.shields.io/github/followers/aminamin?logo=GitHub&style=for-the-badge)](https://github.com/aminamin13)
+[![GitHub Stars](https://img.shields.io/github/stars/aminamin?logo=github&style=for-the-badge)](https://github.com/aminamin13) 
+[![Twitch Status](https://img.shields.io/twitch/status/aminamin?color=9147FF&logo=twitch&style=for-the-badge)]()
 
 ![Profile](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aminamin13&theme=codeSTACKr)
 ![Repos per language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aminamin13&theme=codeSTACKr)
