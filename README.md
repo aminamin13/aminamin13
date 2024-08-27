@@ -26,10 +26,9 @@ I'm Amine Amine, a senior Flutter developer. I also create and contribute to man
 ![Most commit language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aminamin13&theme=codeSTACKr)
 
 ## 🧑‍💻 My Current Projects
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aminamin13&repo=ecommerce-app&theme=codeSTACKr)](https://github.com/aminamin13/ecommerce-app)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aminamin13&repo=deliveryapp&theme=codeSTACKr)](https://github.com/aminamin13/deliveryapp)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aminamin13&repo=deliveryapp-php&theme=codeSTACKr)](https://github.com/aminamin13/deliveryapp-php)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aminamin13&repo=deliveryapp-php&theme=codeSTACKr)](https://github.com/aminamin13/deliveryapp-php)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aminamin13&repo=habit_tracker&theme=codeSTACKr)](https://github.com/aminamin13/habit_tracker)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aminamin13&repo=note-app-isar&theme=codeSTACKr)](https://github.com/aminamin13/note-app-isar)
