@@ -3,7 +3,7 @@
 I'm Amine Amine, a senior Flutter developer. I also create and contribute to many open source projects. I really enjoy building flutter applications.
 
 ## 💬 Topics I cover
-* Programming (**Java, C/C++, C#, Python, Go, Rust, Ruby, JavaScript, Swift**)
+* Programming (**Java, C/C++, C#, Python, Dart, Flutter, JavaScript**)
 * Operating Systems (**Windows, MacOS, Linux, iOS, and Android**)
 <br><br>
 
