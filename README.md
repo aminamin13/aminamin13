@@ -1,10 +1,13 @@
 ## 👋 Hi!
 
-I'm Amine Amine, a senior Flutter developer. I also create and contribute to many open source projects. I really enjoy building flutter applications.
+I'm Amine Amine, a senior Flutter developer with a strong passion for creating innovative applications and contributing to open source projects. I specialize in crafting seamless user experiences with Flutter and enjoy exploring emerging technologies. 
+
+In addition to my development work, I also delve into data analysis, leveraging skills in data visualization, statistical analysis, and data manipulation to derive actionable insights and inform decision-making.
 
 ## 💬 Topics I cover
 * Programming (**Java, C/C++, C#, Python, Dart, Flutter, JavaScript**)
 * Operating Systems (**Windows, MacOS, Linux, iOS, and Android**)
+* Data Analysis: (**Data Visualization, Statistical Analysis, Data Manipulation, Python Libraries (Pandas, NumPy), Data Cleaning, SQL, Excel, Tableau, Power BI.**)
 <br><br>
 
 ## Join Me On UpWork
@@ -25,12 +28,14 @@ I'm Amine Amine, a senior Flutter developer. I also create and contribute to man
 ![Repos per language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aminamin13&theme=codeSTACKr)
 ![Most commit language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aminamin13&theme=codeSTACKr)
 
-## 🧑‍💻 My Current Projects
-
+## Flutter Applications
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aminamin13&repo=ecommerce-app&theme=codeSTACKr)](https://github.com/aminamin13/ecommerce-app)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aminamin13&repo=deliveryapp&theme=codeSTACKr)](https://github.com/aminamin13/deliveryapp)
-
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aminamin13&repo=habit_tracker&theme=codeSTACKr)](https://github.com/aminamin13/habit_tracker)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aminamin13&repo=note-app-isar&theme=codeSTACKr)](https://github.com/aminamin13/note-app-isar)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aminamin13&repo=TO-DO-APP&theme=codeSTACKr)](https://github.com/aminamin13/TO-DO-APP)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aminamin13&repo=mini-NFT-marketplace&theme=codeSTACKr)](https://github.com/aminamin13/mini-NFT-marketplace)
+
+## Data Analysis Projects
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aminamin13&repo=Excel-Dashboard&theme=codeSTACKr)](https://github.com/aminamin13/Excel-Dashboard)
+
