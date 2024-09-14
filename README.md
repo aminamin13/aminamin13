@@ -17,7 +17,7 @@ In addition to my development work, I also delve into data analysis, leveraging 
 
 ## Tech Stack
 
-<img src="https://skillicons.dev/icons?i=js,html,css,php,dart,flutter,firebase,flutter,java,react" title="Flutter, Firebase, Appwrite, NestJs, ReactJS, Laravel, Dart, HTML, CSS, JS, Svelte" alt="Flutter, Firebase, Appwrite, ReactJS, Dart, HTML, CSS, JS" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=js,html,css,php,dart,flutter,firebase,flutter,java,react,python,pandas" title="Flutter, Firebase, Appwrite, NestJs, ReactJS, Laravel, Dart, HTML, CSS, JS, ,python,pandas" alt="Flutter, Firebase, Appwrite, ReactJS, Dart, HTML, CSS, JS" /> <br /><br />
 
 ## 📈 GitHub Stats
 [![GitHub followers](https://img.shields.io/github/followers/aminamin?logo=GitHub&style=for-the-badge)](https://github.com/aminamin13)
