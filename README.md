@@ -41,4 +41,5 @@ In addition to my development work, I also delve into data analysis, leveraging 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aminamin13&repo=tableau-Dashboard&theme=codeSTACKr)](https://github.com/aminamin13/tableau-Dashboard)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aminamin13&repo=PortfolioProject-PowerBi&theme=codeSTACKr)](https://github.com/aminamin13/PortfolioProject-PowerBi)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aminamin13&repo=Website-Data-Scraping-Using-Python&theme=codeSTACKr)](https://github.com/aminamin13/Website-Data-Scraping-Using-Python)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aminamin13&repo=yallakora-scraping&theme=codeSTACKr)](https://github.com/aminamin13/yallakora-scraping)
 
