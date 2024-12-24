@@ -35,6 +35,7 @@ In addition to my development work, I also delve into data analysis, leveraging 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aminamin13&repo=note-app-isar&theme=codeSTACKr)](https://github.com/aminamin13/note-app-isar)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aminamin13&repo=TO-DO-APP&theme=codeSTACKr)](https://github.com/aminamin13/TO-DO-APP)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aminamin13&repo=mini-NFT-marketplace&theme=codeSTACKr)](https://github.com/aminamin13/mini-NFT-marketplace)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aminamin13&repo=linkedin_clone&theme=codeSTACKr)](https://github.com/aminamin13/linkedin_clone)
 
 ## Data Analysis Projects
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aminamin13&repo=Excel-Sales-Dashboard-&theme=codeSTACKr)](https://github.com/aminamin13/Excel-Sales-Dashboard-)
