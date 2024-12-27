@@ -29,13 +29,15 @@ In addition to my development work, I also delve into data analysis, leveraging 
 ![Most commit language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aminamin13&theme=codeSTACKr)
 
 ## Flutter Applications
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aminamin13&repo=linkedin_clone&theme=codeSTACKr)](https://github.com/aminamin13/linkedin_clone)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aminamin13&repo=linkedin_web_responsive_clone.github.io&theme=codeSTACKr)](https://github.com/aminamin13/linkedin_web_responsive_clone.github.io)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aminamin13&repo=ecommerce-app&theme=codeSTACKr)](https://github.com/aminamin13/ecommerce-app)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aminamin13&repo=deliveryapp&theme=codeSTACKr)](https://github.com/aminamin13/deliveryapp)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aminamin13&repo=habit_tracker&theme=codeSTACKr)](https://github.com/aminamin13/habit_tracker)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aminamin13&repo=note-app-isar&theme=codeSTACKr)](https://github.com/aminamin13/note-app-isar)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aminamin13&repo=TO-DO-APP&theme=codeSTACKr)](https://github.com/aminamin13/TO-DO-APP)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aminamin13&repo=mini-NFT-marketplace&theme=codeSTACKr)](https://github.com/aminamin13/mini-NFT-marketplace)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aminamin13&repo=linkedin_clone&theme=codeSTACKr)](https://github.com/aminamin13/linkedin_clone)
+
 
 ## Data Analysis Projects
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aminamin13&repo=Excel-Sales-Dashboard-&theme=codeSTACKr)](https://github.com/aminamin13/Excel-Sales-Dashboard-)
